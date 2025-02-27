@@ -1,6 +1,6 @@
 ### Olá! Me chamo Vinycius Alves
 
-<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí. Buscando aprimorar meus conhecimentosna área de programação.
+<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí. Buscando aprimorar meus conhecimentos na área de programação.
 </p>
 
 ## Contate-me
