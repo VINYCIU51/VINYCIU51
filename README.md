@@ -14,7 +14,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&show_icons=true&count_private=true&hide_border=true&title_color=DCDCDC&icon_color=DCDCDC&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINYCIU51&layout=compact&hide_border=true&title_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117"/>
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VINYCIU51&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&hide_border=true&langs_count=4&show_icons=true&title_color=DCDCDC&hide=html,scss,less&bg_color=0d1117&text_color=8B8B8B" alt="Most Used Languages">
 </div>
 
 <picture align="center">
