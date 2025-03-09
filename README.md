@@ -7,7 +7,9 @@
 <img align="right" height="300" src="https://i.pinimg.com/474x/d7/a3/00/d7a300f337123576456effe9216efca0.jpg"  />
 
 ###
+
 I'm Vinycius Alves, a student of Systems Analysis and Development at the Federal Institute of Piauí – Campus Pedro II.
+
 ### Areas of Interest
 - Website development
 - App development
@@ -15,16 +17,18 @@ I'm Vinycius Alves, a student of Systems Analysis and Development at the Federal
 ### Goals
 - Expand my knowledge in technology
 - Apply this knowledge to future projects
-- Become a full-stack developer</p>
+- Become a full-stack developer
 
 <br clear="both">
+
+
 
 <h2 align="left">Contact Me</h2>
 
 ###
 
 <div align="left">
-  <a href="mailto:vinyciusalves155@gmail.com" target="_blank">
+  <a href="mailto:vinyciusalves155@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/vinycius.alvess?igsh=MTlrMzVxNzNjNnNtaQ==" target="_blank">
@@ -35,9 +39,7 @@ I'm Vinycius Alves, a student of Systems Analysis and Development at the Federal
   </a>
 </div>
 
-###
 
-<br clear="both">
 
 <h2 align="left">Knowledge & Skills</h2>
 
@@ -67,7 +69,7 @@ I'm Vinycius Alves, a student of Systems Analysis and Development at the Federal
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
 </div>
 
-###
+
 
 <h2 align="left"></h2>
 
@@ -80,14 +82,10 @@ I'm Vinycius Alves, a student of Systems Analysis and Development at the Federal
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2&bg_color=00000000" height="180" alt="languages graph"  />
 </div>
 
-###
 
-<br clear="both">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VINYCIU51/VINYCIU51/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VINYCIU51/VINYCIU51/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VINYCIU51/VINYCIU51/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VINYCIU51/VINYCIU51/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VINYCIU51/VINYCIU51/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-###
