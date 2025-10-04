@@ -4,7 +4,7 @@
 
 <img src="images/a1.png" alt="tree" width="150" align="left" />
 
-<h2 align="center">Hello! My name is Vinycius Alves</h2>
+<h3 align="center">Hello! My name is Vinycius Alves</h3>
 
 <br clear="both">
 
