@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <a href="vinyciusalves155@gmail.com" target="_blank">
+  <a href="mailto:vinyciusalves155@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f0ebe3&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/vinycius.alvess?igsh=MTlrMzVxNzNjNnNtaQ==" target="_blank">
