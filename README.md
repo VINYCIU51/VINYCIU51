@@ -17,13 +17,13 @@
 ###
 <div align="center">
   
-  ![Java](https://img.shields.io/badge/Java-b9b9b9?style=for-the-badge&logo=java&logoColor=252321)
-  ![Python](https://img.shields.io/badge/Python-b9b9b9?style=for-the-badge&logo=python&logoColor=252321)
-  ![C++](https://img.shields.io/badge/C++-b9b9b9?style=for-the-badge&logo=c%2B%2B&logoColor=252321)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-b9b9b9?style=for-the-badge&logo=javascript&logoColor=252321)
-  ![HTML5](https://img.shields.io/badge/HTML5-b9b9b9?style=for-the-badge&logo=html5&logoColor=252321)
-  ![CSS3](https://img.shields.io/badge/CSS3-b9b9b9?style=for-the-badge&logo=css3&logoColor=252321)
-  ![MySQL](https://img.shields.io/badge/MySQL-b9b9b9?style=for-the-badge&logo=mysql&logoColor=252321)
+  ![Java](https://img.shields.io/badge/Java-b9b9b9?style=for-the-badge&logo=java&logoColor=000000)
+  ![Python](https://img.shields.io/badge/Python-b9b9b9?style=for-the-badge&logo=python&logoColor=000000)
+  ![C++](https://img.shields.io/badge/C++-b9b9b9?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-b9b9b9?style=for-the-badge&logo=javascript&logoColor=000000)
+  ![HTML5](https://img.shields.io/badge/HTML5-b9b9b9?style=for-the-badge&logo=html5&logoColor=000000)
+  ![CSS3](https://img.shields.io/badge/CSS3-b9b9b9?style=for-the-badge&logo=css3&logoColor=000000)
+  ![MySQL](https://img.shields.io/badge/MySQL-b9b9b9?style=for-the-badge&logo=mysql&logoColor=000000)
   
 </div>
 
@@ -31,8 +31,8 @@
 
 <div align="center">
   
-  ![Node.js](https://img.shields.io/badge/Node.js-b9b9b9?style=for-the-badge&logo=nodedotjs&logoColor=252321)
-  ![React](https://img.shields.io/badge/React-b9b9b9?style=for-the-badge&logo=React&logoColor=252321)
+  ![Node.js](https://img.shields.io/badge/Node.js-b9b9b9?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+  ![React](https://img.shields.io/badge/React-b9b9b9?style=for-the-badge&logo=React&logoColor=000000)
   
 </div>
 
@@ -42,8 +42,8 @@
 <img src="images/n12.png" alt="samurai" width="200" align="left" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=b9b9b9&title_color=252321&text_color=252321&icon_color=252321&border_color=252321" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&bg_color=b9b9b9&title_color=252321&text_color=252321&border_color=252321" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=b9b9b9&title_color=000000&text_color=000000&icon_color=000000&border_color=black" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&bg_color=b9b9b9&title_color=000000&text_color=000000&border_color=000000" height="180" alt="languages graph"  />
 </div>
 
 <picture align="right">
