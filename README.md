@@ -12,24 +12,6 @@
 
 ###
 
-<h2 align="left">Contact Me</h2>
-
-###
-
-<div align="center">
-  <a href="mailto:vinyciusalves155@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f0ebe3&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/vinycius.alvess?igsh=MTlrMzVxNzNjNnNtaQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f0ebe3&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/vinyciu51" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=f0ebe3&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Technologies</h2>
 
 ###
