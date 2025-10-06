@@ -1,8 +1,8 @@
 <br clear="both">
 
-<img src="images/c12.png" alt="crow" width="150" align="right" />
+<img src="images/crow.png" alt="crow" width="150" align="right" />
 
-<img src="images/a12.png" alt="tree" width="150" align="left" />
+<img src="images/flowers.png" alt="tree" width="150" align="left" />
 
 <h3 align="center">Hello! My name is Vinycius</h3>
 
