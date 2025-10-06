@@ -8,36 +8,45 @@
 
 <br clear="both">
 
-<p align="left">I'm Vinycius Alves, a student of Systems Analysis and Development at the Federal Institute of Piauí – Campus Pedro II.<br><br>Areas of Interest<br><br>    Website development<br>    App development<br><br>Goals<br><br>Expand my knowledge in technology<br>Apply this knowledge to future projects<br>Become a full-stack developer</p>
+<h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
-###
+---
+#### **Backend**
+<div align="left">
 
-<h2 align="left">Technologies</h2>
+![Java](https://img.shields.io/badge/Java-b9b9b9?style=for-the-badge&logo=java&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-b9b9b9?style=for-the-badge&logo=python&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-b9b9b9?style=for-the-badge&logo=javascript&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-b9b9b9?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-b9b9b9?style=for-the-badge&logo=flask&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-b9b9b9?style=for-the-badge&logo=nodedotjs&logoColor=000000)
 
-###
-<div align="center">
-  
-  ![Java](https://img.shields.io/badge/Java-b9b9b9?style=for-the-badge&logo=java&logoColor=000000)
-  ![Python](https://img.shields.io/badge/Python-b9b9b9?style=for-the-badge&logo=python&logoColor=000000)
-  ![C++](https://img.shields.io/badge/C++-b9b9b9?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-b9b9b9?style=for-the-badge&logo=javascript&logoColor=000000)
-  ![HTML5](https://img.shields.io/badge/HTML5-b9b9b9?style=for-the-badge&logo=html5&logoColor=000000)
-  ![CSS3](https://img.shields.io/badge/CSS3-b9b9b9?style=for-the-badge&logo=css3&logoColor=000000)
-  ![MySQL](https://img.shields.io/badge/MySQL-b9b9b9?style=for-the-badge&logo=mysql&logoColor=000000)
-  
 </div>
 
-<h2 align="left">Studying</h2>
-
-<div align="center">
+#### **Frontend**
+<div align="left">
   
-  ![Node.js](https://img.shields.io/badge/Node.js-b9b9b9?style=for-the-badge&logo=nodedotjs&logoColor=000000)
-  ![React](https://img.shields.io/badge/React-b9b9b9?style=for-the-badge&logo=React&logoColor=000000)
-  
+![HTML5](https://img.shields.io/badge/HTML5-b9b9b9?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-b9b9b9?style=for-the-badge&logo=css3&logoColor=000000)
+![React](https://img.shields.io/badge/React-b9b9b9?style=for-the-badge&logo=React&logoColor=000000)
 </div>
 
+#### **DataBase**
+<div align="left">
+  
+![MySQL](https://img.shields.io/badge/MySQL-b9b9b9?style=for-the-badge&logo=mysql&logoColor=000000)
+![SQLite](https://img.shields.io/badge/SQLite-b9b9b9?style=for-the-badge&logo=sqlite&logoColor=000000)
+</div>
 
-<h2 align="left">Stats</h2>
+#### **Design**
+<div align="left">
+  
+![Figma](https://img.shields.io/badge/Figma-b9b9b9?style=for-the-badge&logo=figma&logoColor=000000)
+![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-b9b9b9?style=for-the-badge&logo=adobexd&logoColor=000000)
+
+</div>
+
+---
 
 <img src="images/n12.png" alt="samurai" width="200" align="left" />
 
