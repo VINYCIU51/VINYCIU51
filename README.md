@@ -48,7 +48,7 @@
 
 ---
 
-<img src="images/n12.png" alt="samurai" width="200" align="left" />
+<img src="images/samurai.png" alt="samurai" width="200" align="left" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=b9b9b9&title_color=000000&text_color=000000&icon_color=000000&border_color=black" height="180" alt="stats graph"  />
