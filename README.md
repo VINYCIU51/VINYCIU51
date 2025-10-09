@@ -17,7 +17,6 @@
 ![Java](https://img.shields.io/badge/Java-EDEFEF?style=for-the-badge&logo=java&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-EDEFEF?style=for-the-badge&logo=python&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDEFEF?style=for-the-badge&logo=javascript&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-EDEFEF?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-EDEFEF?style=for-the-badge&logo=flask&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-EDEFEF?style=for-the-badge&logo=nodedotjs&logoColor=000000)
 
