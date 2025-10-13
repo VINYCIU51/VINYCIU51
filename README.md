@@ -4,7 +4,7 @@
 
 <img src="images/flowers.png" alt="tree" width="150" align="left" />
 
-<h3 align="center">Hello! My name is Vinycius</h3>
+<h3 align="center">Hi! My name is Vinycius</h3>
 
 <br clear="both">
 
@@ -50,8 +50,8 @@
 <img src="images/samurai.png" alt="samurai" width="200" align="left" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=EDEFEF&title_color=000000&text_color=000000&icon_color=000000&border_color=black" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&order=2&bg_color=EDEFEF&title_color=000000&text_color=000000&border_color=000000" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats&bg_color=EDEFEF15&title_color=EDEFEF&text_color=EDEFEF&icon_color=EDEFEF&border_color=black" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2&bg_color=EDEFEF15&title_color=EDEFEF&text_color=EDEFEF&border_color=EDEFEF" height="180" alt="languages graph"  />
 </div>
 
 <picture align="right">
