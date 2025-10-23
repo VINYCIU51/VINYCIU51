@@ -4,11 +4,9 @@
 
 <img src="images/flowers.png" alt="tree" width="150" align="left" />
 
-<h3 align="center">Hi! My name is Vinycius</h3>
+<h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
 <br clear="both">
-
-<h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
 ---
 #### **Backend**
