@@ -1,5 +1,7 @@
 <br clear="both">
 
+<img src="images/flowers.png" alt="flower" width="150" align="left" />
+
 <img src="images/crow.png" alt="crow" width="150" align="right" />
 
 <h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
