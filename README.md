@@ -1,14 +1,15 @@
 <br clear="both">
 
-<img src="images/flowers.png" alt="flower" width="150" align="left" />
+<img src="images/flowers.png" width="150" align="left" />
 
-<img src="images/crow.png" alt="crow" width="150" align="right" />
+<img src="images/crow.png" width="150" align="right" />
 
 <h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
 <br clear="both">
 
 ---
+
 #### **Backend**
 <div align="left">
 
@@ -45,7 +46,7 @@
 
 ---
 
-<img src="images/samurai.png" alt="samurai" width="200" align="left" />
+<img src="images/samurai.png" width="200" align="left" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2&bg_color=EDEFEF15&title_color=EDEFEF&text_color=EDEFEF&border_color=EDEFEF" height="180" alt="languages graph"  />
