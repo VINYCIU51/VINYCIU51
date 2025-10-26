@@ -2,8 +2,6 @@
 
 <img src="images/crow.png" alt="crow" width="150" align="right" />
 
-<img src="images/flowers.png" alt="tree" width="150" align="left" />
-
 <h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
 <br clear="both">
