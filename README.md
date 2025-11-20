@@ -2,7 +2,7 @@
 
 <img src="images/red-branch.png" width="200" align="left" />
 
-<img src="images/red-sun.png" width="200" align="right" />
+<img src="images/red-sun.png" width="170" align="right" />
 
 <h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
