@@ -46,7 +46,7 @@
 
 ---
 
-<img src="images/samurai2.png" width="200" align="left" />
+<img src="images/samurai1.png" width="200" align="left" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2&bg_color=262626&title_color=EDEFEF&text_color=EDEFEF&border_color=942309" height="180" alt="languages graph"  />
