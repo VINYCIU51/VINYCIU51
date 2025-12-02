@@ -13,34 +13,34 @@
 #### **Backend**
 <div align="left">
 
-![Java](https://img.shields.io/badge/Java-942309?style=for-the-badge&logo=java&logoColor=EDEFEF)
-![Python](https://img.shields.io/badge/Python-942309?style=for-the-badge&logo=python&logoColor=EDEFEF)
-![Flask](https://img.shields.io/badge/Flask-942309?style=for-the-badge&logo=flask&logoColor=EDEFEF)
-![Node.js](https://img.shields.io/badge/Node.js-942309?style=for-the-badge&logo=nodedotjs&logoColor=EDEFEF)
+![Java](https://img.shields.io/badge/Java-3e0c00?style=for-the-badge&logo=java&logoColor=EDEFEF)
+![Python](https://img.shields.io/badge/Python-6b1906?style=for-the-badge&logo=python&logoColor=EDEFEF)
+![Flask](https://img.shields.io/badge/Flask-a8280b?style=for-the-badge&logo=flask&logoColor=EDEFEF)
+![Node.js](https://img.shields.io/badge/Node.js-e32b02?style=for-the-badge&logo=nodedotjs&logoColor=EDEFEF)
 
 </div>
 
 #### **Frontend**
 <div align="left">
   
-![HTML5](https://img.shields.io/badge/HTML5-942309?style=for-the-badge&logo=html5&logoColor=EDEFEF)
-![CSS3](https://img.shields.io/badge/CSS3-942309?style=for-the-badge&logo=css3&logoColor=EDEFEF)
-![JavaScript](https://img.shields.io/badge/JavaScript-942309?style=for-the-badge&logo=javascript&logoColor=EDEFEF)
-![React](https://img.shields.io/badge/React-942309?style=for-the-badge&logo=React&logoColor=EDEFEF)
+![HTML5](https://img.shields.io/badge/HTML5-3e0c00?style=for-the-badge&logo=html5&logoColor=EDEFEF)
+![CSS3](https://img.shields.io/badge/CSS3-6b1906?style=for-the-badge&logo=css3&logoColor=EDEFEF)
+![JavaScript](https://img.shields.io/badge/JavaScript-a8280b?style=for-the-badge&logo=javascript&logoColor=EDEFEF)
+![React](https://img.shields.io/badge/React-e32b02?style=for-the-badge&logo=React&logoColor=EDEFEF)
 </div>
 
 #### **DataBase**
 <div align="left">
   
-![MySQL](https://img.shields.io/badge/MySQL-942309?style=for-the-badge&logo=mysql&logoColor=EDEFEF)
-![SQLite](https://img.shields.io/badge/SQLite-942309?style=for-the-badge&logo=sqlite&logoColor=EDEFEF)
+![MySQL](https://img.shields.io/badge/MySQL-3e0c00?style=for-the-badge&logo=mysql&logoColor=EDEFEF)
+![SQLite](https://img.shields.io/badge/SQLite-6b1906?style=for-the-badge&logo=sqlite&logoColor=EDEFEF)
 </div>
 
 #### **Design**
 <div align="left">
   
-![Figma](https://img.shields.io/badge/Figma-942309?style=for-the-badge&logo=figma&logoColor=EDEFEF)
-![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-942309?style=for-the-badge&logo=adobexd&logoColor=EDEFEF)
+![Figma](https://img.shields.io/badge/Figma-3e0c00?style=for-the-badge&logo=figma&logoColor=EDEFEF)
+![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-6b1906?style=for-the-badge&logo=adobexd&logoColor=EDEFEF)
 
 </div>
 
