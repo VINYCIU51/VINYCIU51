@@ -40,7 +40,8 @@
 <div align="left">
   
 ![Figma](https://img.shields.io/badge/Figma-3e0c00?style=for-the-badge&logo=figma&logoColor=EDEFEF)
-![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-6b1906?style=for-the-badge&logo=adobexd&logoColor=EDEFEF)
+![Photoshop](https://img.shields.io/badge/Photoshop-6b1906?style=for-the-badge&logo=adobe-photoshop&logoColor=EDEFEF)
+![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-a8280b?style=for-the-badge&logo=adobexd&logoColor=EDEFEF)
 
 </div>
 
