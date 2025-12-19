@@ -50,8 +50,8 @@
 <img src="images/samurai1.png" width="200" align="left" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2&bg_color=262626&title_color=EDEFEF&text_color=EDEFEF&border_color=942309" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats&bg_color=262626&title_color=EDEFEF&text_color=EDEFEF&icon_color=EDEFEF&border_color=942309" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2&bg_color=1a1a1a&title_color=EDEFEF&text_color=EDEFEF&border_color=942309" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats&bg_color=1a1a1a&title_color=EDEFEF&text_color=EDEFEF&icon_color=EDEFEF&border_color=942309" height="180" alt="stats graph"  />
 </div>
 
 <picture align="right">
