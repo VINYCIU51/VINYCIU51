@@ -1,8 +1,8 @@
 <br clear="both">
 
-<img src="images/red-branch.png" width="150" align="left" />
+<img src="images/red-branch.webp" width="150" align="left" />
 
-<img src="images/red-sun.png" width="150" align="right" />
+<img src="images/red-sun.webp" width="150" align="right" />
 
 <h4 align="center"><em>"Learn the rules of the art, the science behind the craft, and then create with the freedom of a master."</em></h4>
 
@@ -47,7 +47,7 @@
 
 ---
 
-<img src="images/samurai1.png" width="200" align="left" />
+<img src="images/samurai1.webp" width="200" align="left" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&order=2&bg_color=1a1a1a&title_color=EDEFEF&text_color=EDEFEF&border_color=942309" height="180" alt="languages graph"  />
